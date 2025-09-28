@@ -26,7 +26,7 @@ body {
     border: none;
 }
 
-.btn-outlie {
+.btn-outline {
     background-color: transparent;
     color: #0A143A;
 }
@@ -93,4 +93,5 @@ body {
     .header-controls {
         display: none;
     }
+
 }
